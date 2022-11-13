@@ -17,7 +17,7 @@ Using the song and log datasets, you'll need to create a star schema optimized f
 `song_id`, `title`, `artist_id`, `year`, `duration`
 
 **`artists`** - artists in music database
-artist_id, name, location, latitude, longitude
+`artist_id`, `name`, `location`, `latitude`, `longitude`
 
 **`time`** - timestamps of records in songplays broken down into specific units
 `start_time`, `hour`, `day`, `week`, `month`, `year`, `weekday`
