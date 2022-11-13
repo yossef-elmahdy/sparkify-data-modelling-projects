@@ -35,4 +35,4 @@ In addition to the data files, the project workspace includes six files:
 
 ![Song Play Star Schema ERD]()
 
-You can explore the ETL pipeline python code from [here]()
+You can explore the ETL pipeline python code from [here](https://github.com/yossef-elmahdy/sparkify-data-modelling-projects/blob/main/project1-data-modeling-with-postgres/erd.png)
