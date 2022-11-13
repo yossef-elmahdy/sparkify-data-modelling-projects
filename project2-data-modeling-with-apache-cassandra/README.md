@@ -9,6 +9,6 @@ The project template includes one Jupyter Notebook file, in which:
 - Model the data tables keeping in mind the queries you need to run. 
 - Load the data into tables you create in Apache Cassandra and run your queries. 
 
-![Project CSV Data]()
+![Project CSV Data](https://github.com/yossef-elmahdy/sparkify-data-modelling-projects/blob/main/project2-data-modeling-with-apache-cassandra/image_event_datafile_new.jpg)
 
 
