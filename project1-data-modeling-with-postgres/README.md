@@ -22,6 +22,10 @@ artist_id, name, location, latitude, longitude
 **`time`** - timestamps of records in songplays broken down into specific units
 `start_time`, `hour`, `day`, `week`, `month`, `year`, `weekday`
 
+
+![Song Play Star Schema ERD](https://github.com/yossef-elmahdy/sparkify-data-modelling-projects/blob/main/project1-data-modeling-with-postgres/erd.png)
+
+
 ## Project Template
 To get started with the project, go to the workspace on the next page, where you'll find the project template files. You can work on your project and submit your work through this workspace. Alternatively, you can download the project template files from the Resources folder if you'd like to develop your project locally.
 
@@ -33,6 +37,4 @@ In addition to the data files, the project workspace includes six files:
 4. `etl.py` reads and processes files from `song_data` and `log_data` and loads them into your tables. You can fill this out based on your work in the ETL notebook.
 5. `sql_queries.py` contains all your sql queries, and is imported into the last three files above.
 
-![Song Play Star Schema ERD]()
-
-You can explore the ETL pipeline python code from [here]()
+You can explore the ETL pipeline python code from [here](https://github.com/yossef-elmahdy/sparkify-data-modelling-projects/blob/main/project1-data-modeling-with-postgres/etl-pipeline.ipynb)
