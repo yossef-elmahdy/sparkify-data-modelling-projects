@@ -33,6 +33,6 @@ In addition to the data files, the project workspace includes six files:
 4. `etl.py` reads and processes files from `song_data` and `log_data` and loads them into your tables. You can fill this out based on your work in the ETL notebook.
 5. `sql_queries.py` contains all your sql queries, and is imported into the last three files above.
 
-![Song Play Star Schema ERD]()
+![Song Play Star Schema ERD](https://github.com/yossef-elmahdy/sparkify-data-modelling-projects/blob/main/project1-data-modeling-with-postgres/erd.png)
 
-You can explore the ETL pipeline python code from [here](https://github.com/yossef-elmahdy/sparkify-data-modelling-projects/blob/main/project1-data-modeling-with-postgres/erd.png)
+You can explore the ETL pipeline python code from [here](https://github.com/yossef-elmahdy/sparkify-data-modelling-projects/blob/main/project1-data-modeling-with-postgres/etl-pipeline.ipynb)
